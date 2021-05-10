@@ -20,10 +20,14 @@ Tweet source: https://twitter.com/AnyOtherAnnaK/status/629195955506708480
 ### This assignment includes the following:
 
 1- Download the data and perform the text pre-processing pipeline as in the lecture
+
 2- Train 3 BoW models for the following features:
 - Binary
 - Count + Freq
 - TF-IDF
+
 3- Plot the learning curves
+
 4- Compare for the best model the 2 cases: with and without data pre-processing
+
 5- Develop BoW vectors model with learnable Embeddings
